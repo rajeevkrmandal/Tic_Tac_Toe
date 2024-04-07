@@ -1,6 +1,6 @@
-# Author: aqeelanwar
-# Created: 12 March,2020, 7:06 PM
-# Email: aqeel.anwar@gatech.edu
+# Author: Rajeev Kr Mandal
+# Created: 09 March,2024, 7:06 PM
+# Email: rajeevmandal17937@gmail.com
 
 from tkinter import *
 import numpy as np
