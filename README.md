@@ -19,7 +19,7 @@ Player 2 follows with the O symbol.
 The game continues until one player wins or the game ends in a tie.
 Click anywhere on the screen to play again after a game ends.
 File Structure:
-tic_tac_toe.py: Main Python script containing the game logic.
+main.py: Main Python script containing the game logic.
 README.md: This file, providing information about the game.
 Credits:
 Author: Rajeev Kr Mandal
